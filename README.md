@@ -49,3 +49,4 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan form
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
+[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://youtu.be/GP2mrh-5Sc0)
