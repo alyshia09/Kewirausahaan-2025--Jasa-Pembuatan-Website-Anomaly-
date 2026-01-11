@@ -45,3 +45,7 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan form
 📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1sOXPXsBmj2WSBa99SpQfKRIlkM2F8bQNMPANCpw8U9o/edit?usp=sharing)**
 
 ---
+
+## 📺 4. Presentasi Produk (Pitch Deck)
+Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
+
