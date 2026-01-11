@@ -37,3 +37,11 @@ Kami telah melakukan validasi masalah di wilayah Jakarta selatan dengan melibatk
 _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan formula aktif)_
 
 ---
+
+## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
+* **Status Merek:** [Aman]
+* **Bentuk Badan Usaha:** [CV]
+
+📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1sOXPXsBmj2WSBa99SpQfKRIlkM2F8bQNMPANCpw8U9o/edit?usp=sharing)**
+
+---
